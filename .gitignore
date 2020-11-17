@@ -9,14 +9,3 @@ generated_classes/
 plugins/Gosu/idea-gclasses/
 plugins/Gosu/gclasses/
 plugins/Gosu/gresources/
-modules/configuration/configuration.iml
-studio/
-apitestbench/gradle/cache/
-apitestbench/build/
-apitestbench/target/
-apitestbench/customer-api/build/
-apitestbench/customer-api/target/
-apitestbench/customer-api/out/
-apitestbench/customer-karate/build/
-apitestbench/customer-karate/target/
-apitestbench/customer-karate/out/
