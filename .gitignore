@@ -7,12 +7,8 @@ build/
 generated/
 generated_classes/
 plugins/Gosu/idea-gclasses/
-modules/configuration/build/
-modules/configuration/generated/
-modules/configuration/generated_classes/
-modules/configuration/plugins/Gosu/idea-gclasses
-modules/configuration/plugins/Gosu/gclasses/
-modules/configuration/plugins/Gosu/gresources/
+plugins/Gosu/gclasses/
+plugins/Gosu/gresources/
 modules/configuration/configuration.iml
 studio/
 apitestbench/gradle/cache/
